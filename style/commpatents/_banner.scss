@@ -63,15 +63,18 @@
     /* 140% */
 }
 
-.banner-catalog2-info {
-    width: 388px;
+.banner-catalog2 {
+    width: 100%;
 
+    
 }
-
+.catalog2-info {
+    text-align: left;
+    width: 500px;
+}
 .catalog2-info_title {
     color: var(--Grey-600, #333);
     text-align: center;
-
     /* Heading 5 */
     font-family: Libre Baskerville;
     font-size: 24px;
